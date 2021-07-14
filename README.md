@@ -1,1 +1,1 @@
-# Set-up-project-with-webpack
+# Basic WebPack BoilerPlate (for later use)
